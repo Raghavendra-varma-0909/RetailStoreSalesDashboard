@@ -44,6 +44,5 @@ git clone https://github.com/Koushik-Reddy-09/RetailStoreSalesDashboard.git
 ```
 
 ## Link to the Dataset
-[Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)
+[Retail Store Sales Dataset](https://github.com/Koushik-Reddy-09/RetailStoreSalesDashboard/blob/main/Details.csv)
 
-![Screenshot_20230616_035317](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/assets/123563634/1725e494-528f-4ebc-a76a-87704d820f30)
